@@ -1,3 +1,10 @@
+/*
+Author: Hugo FOULON & Maxime ACCURSI
+ born date: 12 september 2021
+ last Update : 14 september 2021
+ NAME : main.cpp
+ description:
+ */
 #include <iostream>
 #include <cstdlib>
 #include <unistd.h>
