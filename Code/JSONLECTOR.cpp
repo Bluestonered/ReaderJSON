@@ -4,7 +4,7 @@
 #include "JSONLECTOR.h"
 #include <fstream>
 #include <string.h>
-#include<string>
+#include <string>
 
 using namespace std;
 
@@ -20,8 +20,6 @@ string JSONLECTOR::JSONReader()
     copy(inputIt, emptyInputIt, stringInsert);
 
     return fileStr;
-
-	return 0;
 }
 
 JSONLECTOR::JSONLECTOR()
@@ -31,5 +29,5 @@ JSONLECTOR::JSONLECTOR()
 
 JSONLECTOR::~JSONLECTOR()
 {
-    
+
 }
