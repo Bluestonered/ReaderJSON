@@ -8,9 +8,10 @@ Author: Hugo FOULON & Maxime ACCURSI
 #include <iostream>
 #include <cstdlib>
 #include <unistd.h>
-#include "JSONLECTOR.h"
 #include <string.h>
 #include <string>
+
+#include "JSONLECTOR.h"
 
 using namespace std;
 
