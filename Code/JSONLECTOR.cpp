@@ -23,3 +23,13 @@ string JSONLECTOR::JSONReader()
 
 	return 0;
 }
+
+JSONLECTOR::JSONLECTOR()
+{
+
+}
+
+JSONLECTOR::~JSONLECTOR()
+{
+    
+}

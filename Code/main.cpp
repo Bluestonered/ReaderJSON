@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include "JSONLECTOR.h"
 #include <string.h>
-#include<string>
+#include <string>
 
 using namespace std;
 
